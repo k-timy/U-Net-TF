@@ -1,6 +1,6 @@
 # U-Net with TensorFlow 2.1
 This project is my own custom implementation of U-Net for image segmentation using TensorFlow v2. Feel free to play around with the code and let me know of any problems.
-The files of the project are self explanatory.
+The file names of the project are self explanatory and the codes have comments for more details.
 I have also provided some examples of running the model in images directory.
 
 ## The Training Loss vs. Test Loss
